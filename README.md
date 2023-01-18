@@ -1,15 +1,17 @@
 # Digit Recognition using OpenCV
 This script uses the OpenCV library in Python to recognize digits drawn on a canvas. The model is trained using the K-Nearest Neighbors algorithm.
 
-# Requirements
-Python 3
-OpenCV 4
-Numpy  
-
+# In-script Image
 ![Screenshot_1](https://user-images.githubusercontent.com/68299931/213156550-8a76c941-96e7-4507-870a-6886381d4fcb.png)
 left window = predict  
 mid window = image after dilation  
 right widow = paint  
+
+# Requirements
+Python 3  
+OpenCV 4  
+Numpy  
+
 # Usage
 
 1. Run the script using the command python scriptname.py  
